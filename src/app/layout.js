@@ -2,8 +2,8 @@ import "./globals.css";
 import Navbar from "@/components/Navbar";
 
 export const metadata = {
-  title: "Menu Boho House",
-  description: "a home away from home",
+  title: "Menu Le salama Marrakech",
+  description: "Rooftop & Sky Bar",
 };
 
 export default function RootLayout({ children }) {
